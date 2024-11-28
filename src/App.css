@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.form-login {
+  padding: 20px; /* Sesuaikan dengan ukuran padding yang diinginkan */
+  margin: center; /* Membuat elemen berada di tengah */
+  width: 50%; /* Atur lebar sesuai kebutuhan */
+  box-sizing: border-box; /* Pastikan padding tidak menambah ukuran total elemen */
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
